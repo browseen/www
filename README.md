@@ -23,3 +23,27 @@ Test:
 + TLS
 + czas ładowania
 + 
+
+
+Pomoc online:
++ DevOps
++ NetOps
++ Webmaster
+
++ Pomoc w przeprowadzeniu zmian,
++ rozlcizanie za zlecenie
++ wycena zmian
++ czym więcej tym większy rabat za całość
+
+
+Dla pierwszych klientów rabat za partnerstwo
+
+
+Marketplace: h2h
+Lista partnerów, którzy robią konfiguracje usług
+
+
+Aplikacje:
++ Dynapsys
+
+
