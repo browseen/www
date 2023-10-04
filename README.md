@@ -1,8 +1,8 @@
 # [browseen](http://browseen.com/)
 
-browseen.com
++ [browseen/www: Landign page](https://github.com/browseen/www)
 
-https://github.com/browseen/www
+## browseen.com
 
 The name "Browseen" combines the words "browse" and "seen", implying that users are able to see and browse through public infrastructure.
 The word "seek" in "browseek" might have a connotation of difficulty in finding something, which might not be a very positive impression for a search engine. 
@@ -51,6 +51,13 @@ Lista partnerów, którzy robią konfiguracje usług
 
 
 Aplikacje:
-+ Dynapsys
++ [Dynapsys](http://dynapsys.com/)
 
 
+
+
+
+
+---
+
++ [edit](https://github.com/browseen/www/edit/main/README.md)
