@@ -50,6 +50,11 @@ Marketplace: h2h
 Lista partnerów, którzy robią konfiguracje usług
 
 
+## Projekty powiązane 
++ [docs.metamodule.org](https://docs.metamodule.org/)
++ [docs.ndof.org](https://docs.ndof.org/)
+
+
 Aplikacje:
 + [Dynapsys](http://dynapsys.com/)
 
