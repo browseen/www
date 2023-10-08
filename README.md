@@ -1,6 +1,13 @@
 # [browseen](http://browseen.com/)
 
-+ [browseen/www: Landign page](https://github.com/browseen/www)
+
+## Projekty powiązane 
++ [docs.metamodule.org](https://docs.metamodule.org/)
++ [docs.ndof.org](https://docs.ndof.org/)
++ [www.apimacro.com](https://www.apimacro.com/)
++ [www.apirpc.com](https://www.apirpc.com/)
+
+
 
 ## browseen.com
 
@@ -50,11 +57,6 @@ Marketplace: h2h
 Lista partnerów, którzy robią konfiguracje usług
 
 
-## Projekty powiązane 
-+ [docs.metamodule.org](https://docs.metamodule.org/)
-+ [docs.ndof.org](https://docs.ndof.org/)
-
-
 Aplikacje:
 + [Dynapsys](http://dynapsys.com/)
 
@@ -66,3 +68,4 @@ Aplikacje:
 ---
 
 + [edit](https://github.com/browseen/www/edit/main/README.md)
++ [github browseen/www](https://github.com/browseen/www)
