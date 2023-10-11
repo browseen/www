@@ -62,6 +62,30 @@ Aplikacje:
 
 
 
+## Another solutions
+
+Public infrastructure scanners often refer to online tools that help to identify vulnerabilities and security risks in the IT infrastructure. Here are a few examples:
+
+### [Shodan](https://www.shodan.io/)
+Shodan is a search engine that lets users find specific types of computers connected to the internet using various filters.
+
+### [Censys](https://censys.io/)
+Censys is a public search engine that enables researchers to quickly ask questions about the hosts and networks that compose the Internet.
+
+### [BinaryEdge](https://www.binaryedge.io/)
+BinaryEdge provides services to scan the whole Internet, grab banners, check vulnerabilities, among others.
+
+### [ZoomEye](https://www.zoomeye.org/)
+ZoomEye is a search engine for cyberspace that lets user find specific network components.
+
+### [Shadowserver](https://www.shadowserver.org/)
+At the Shadowserver Foundation, they contain a malicious site scanner. Their site scanner provides data on hosts distributing exploits, phishing attacks, or other malicious activities.
+
+### [Sucuri SiteCheck](https://sitecheck.sucuri.net/)
+Sucuri SiteCheck scans your site for malware, website errors, and outdated software.
+
+### [Qualys FreeScan](https://www.qualys.com/freescan/)
+Qualys FreeScan is a free vulnerability scanner and network security tool for business networks.  
 
 
 
